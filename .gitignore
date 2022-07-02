@@ -1,0 +1,5 @@
+build/
+.vscode/
+.cache/
+CMakeLists.txt.user
+cmake/qconsole.cmake
